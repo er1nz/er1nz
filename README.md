@@ -2,7 +2,7 @@
 
 **`Digital Freak (Developer/Tweaker/Low Latency Gaming Freak)`**
 
-I'm an indie enthusiast in hardware configuration and tweaking. Most of my projects are aimed towards solving low latency gaming problems with code. Also I write about all of these stuff in my Telegram channel (in Russian Language) "[er1nz01](https://t.me/er1nz01)".
+I'm an indie enthusiast when it comes to hardware configuration and tweaking. Most of my projects are aimed at solving low-latency gaming problems with code. I also write about all these things in my Telegram channel (in Russian language) "er1nz01". "[er1nz01](https://t.me/er1nz01)".
 
    <p align="left">
       <a href="https://github.com/er1nz?tab=followers">
