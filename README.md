@@ -33,4 +33,5 @@ I'm an indie enthusiast in hardware configuration and tweaking. Most of my proje
 #
 -->
 [website]: https://guns.lol/er1nz
+-->
 [telegram]: https://t.me/er1nz01
