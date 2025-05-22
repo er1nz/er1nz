@@ -24,6 +24,7 @@ I'm an indie enthusiast when it comes to hardware configuration and tweaking. Mo
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+
 ### 📊 Stats
 
 ![er1nz's GitHub stats](https://github-readme-stats.vercel.app/api?username=er1nz&show_icons=true&theme=gruvbox)
