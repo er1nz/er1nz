@@ -5,14 +5,12 @@
 I'm an indie enthusiast in hardware configuration and tweaking. Most of my projects are aimed towards solving low latency gaming problems with code. Also I write about all of these stuff in my Telegram channel (in Russian Language) "[er1nz01][telegram]".
 
    <p align="left">
-
       <a href="https://github.com/er1nz?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/er1nz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/er1nz?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/er1nz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
 
 ### 🧰 Languages and Tools
 
