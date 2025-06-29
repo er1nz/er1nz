@@ -27,7 +27,17 @@ I'm an indie enthusiast when it comes to hardware configuration and tweaking. Mo
 
 ### 📊 Stats
 
-![er1nz's GitHub stats](https://github-readme-stats.vercel.app/api?username=er1nz&show_icons=true&theme=gruvbox)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=er1nz&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=9">
+</p>
+
+###
+
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/er1nz/er1nz/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/er1nz/er1nz/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/er1nz/er1nz/output/github-snake-dark.svg">
+</picture></p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=er1nz&theme=gruvbox&border_radius=4.5) -->
 
