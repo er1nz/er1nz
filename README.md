@@ -1,6 +1,6 @@
 # 💜 er1nz
 
-**`Digital Freak (Developer/Tweaker/The witness of Low Latency Gaming)`**
+**`Digital Freak (Developer/The witness of Low Latency Gaming)`**
 
 I'm an indie enthusiast when it comes to hardware configuration and tweaking. Most of my projects are aimed at solving low-latency gaming problems with code. I also write about all these things in my Telegram channel (in Russian language) "[er1nz01](https://t.me/er1nz01)".
 
